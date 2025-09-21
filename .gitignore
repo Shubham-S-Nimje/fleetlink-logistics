@@ -10,3 +10,6 @@ npm-debug.log*
 
 .next
 build/
+
+!.env.example
+!*.env.example
