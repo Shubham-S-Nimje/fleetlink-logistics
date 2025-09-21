@@ -1,0 +1,12 @@
+
+node_modules/
+*/node_modules/
+npm-debug.log*
+
+.npm
+
+.env
+.cache
+
+.next
+build/
